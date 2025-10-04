@@ -1,7 +1,13 @@
+bangalore
+mumbai
+pune
 gulbarga
 bidar
+<<<<<<< HEAD
 bhalki
 mysore
 bijapur
 yadgir
 raichur
+=======
+>>>>>>> parent of e7f67b1 (updated as per INC14763)
