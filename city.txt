@@ -2,4 +2,6 @@ gulbarga
 bidar
 bhalki
 mysore
-bangalore
+bijapur
+yadgir
+raichur
